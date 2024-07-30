@@ -1,5 +1,5 @@
 issuer: https://token.actions.githubusercontent.com
-subject: repo:/navikt/jk-tulleapp2:ref:refs/heads/main
+subject: repo:/navikt/jk-tulleapp-2:ref:refs/heads/main
 
 permissions:
   contents: read
